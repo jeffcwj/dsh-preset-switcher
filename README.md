@@ -4,6 +4,9 @@
 
 ---
 
+<img width="656" height="350" alt="image" src="https://github.com/user-attachments/assets/c9ecdb1a-446e-48a8-825d-a3e495ff773b" />
+
+
 ## 概述
 
 DSH Web 插件：在**任何时候**切换当前会话的代理预设（模式），包括对话已经开始之后 — 原生 UI 不允许这样做（"已开始的对话的代理预设已固定"）。
