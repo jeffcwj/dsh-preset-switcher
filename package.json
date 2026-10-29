@@ -1,7 +1,7 @@
 {
   "name": "dsh-preset-switcher",
-  "version": "0.1.0",
-  "description": "DSH web plugin: switch the current session's agent preset (mode) at any time, even after the conversation has already started - the stock UI refuses that. Provides a session-header dropdown plus a fenced /preset-switch/api route.",
+  "version": "0.2.0",
+  "description": "DSH web plugin: list agent presets and switch the current session's preset (mode) at any time, even after the conversation has started. Live sessions are recomposed in place; unopened sessions record a deferred selection event. Repairs sessions whose recorded preset was deleted. Fenced /preset-switch/api route, DSH 0.2.x host API.",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
